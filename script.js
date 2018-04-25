@@ -67,10 +67,10 @@ var game = (function(document) {
         midBirdY: 98 - 10,
 
         // interval between bot function runs
-        runIntervalMs: 50,
+        runIntervalMs: 40,
 
         // look ahead configurations
-        lookAheadX: 70 + 5,
+        lookAheadX: 65 + 5,
         lookAheadY: 131 - 10,
 
         lookDownWidth: 60,
